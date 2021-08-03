@@ -8,6 +8,7 @@ https://shreyash0409.github.io/food-web-app/
 
 # For local run
 
+Select the master branch from the branches.
 Clone the respository.
 Open in your favourite editor.
 Run the following commands:
